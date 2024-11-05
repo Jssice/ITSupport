@@ -5,8 +5,7 @@
 * national commercial real estate company operates in every major Australian capital city through affiliation 
 * Adelaide SA
 * JD
-
-'''作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
+```作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
 知识与经验：
 您在 ICT 系统和网络方面的丰富经验应包括：
 * 具有排除故障和维护客户端系统（包括 Windows 10 & 11、Apple & Android 手机和平板电脑）的经验
@@ -30,7 +29,7 @@
 * Help Desk & IT Support (Information & Communication Technology)
 * Insight Data Solutions brings unparalleled accuracy, speed, and flexibility to real estate valuation, prediction and analytics. 
 * JD
->>负责通过在线门户、电子邮件和/或来自我们的估值公司和审计师用户群的偶尔来电提交的支持请求的整个生命周期。
+```负责通过在线门户、电子邮件和/或来自我们的估值公司和审计师用户群的偶尔来电提交的支持请求的整个生命周期。
 * 协助解决软件问题并在适用的情况下为用户提供故障排除指导。
 * 与产品和工程团队合作解决复杂或紧急的问题。
 * 协助记录和更新用户知识库。
@@ -46,7 +45,7 @@
 * 能够快速学习复杂系统。
 * 拥有在 ProTech 或房地产领域工作的经验。
 * 拥有 IT 或软件领域的相关学位或大专学历。
-
+```
 
 
 ### [JD参考公司 - IT Support Officer - Vic Gov Expression of Interest](https://www.seek.com.au/job/79910899?ref=search-standalone&type=standard&origin=jobTitle#sol=fac06c38d28c141dcfd25fe1493e3db99e16ff8b)
@@ -54,7 +53,7 @@
 * Richmond, Melbourne VIC
 * Vic Gov
 * JD
->>执行服务台功能，包括记录、影响评估和在设定的时间范围内升级。
+```执行服务台功能，包括记录、影响评估和在设定的时间范围内升级。
 * 确保影响关键操作或健康和安全的事件得到有效管理。
 * 保持对分配任务的所有权，向客户提供最新信息并确保及时解决问题。
 * 保留 IT 设备移动、添加、更改和借出的准确资产记录。

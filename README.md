@@ -5,7 +5,7 @@
 * national commercial real estate company operates in every major Australian capital city through affiliation 
 * Adelaide SA
 * JD
->>作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
+'''作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
 知识与经验：
 您在 ICT 系统和网络方面的丰富经验应包括：
 * 具有排除故障和维护客户端系统（包括 Windows 10 & 11、Apple & Android 手机和平板电脑）的经验

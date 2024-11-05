@@ -1,15 +1,11 @@
 
-
-
-
 # JD 
 ### [JD参考公司 - IT Support Officer - Commercial Real Estate Commuserv](https://www.seek.com.au/job/79378808?type=standard&ref=search-standalone&origin=jobCard#sol=6d7b0c6dc75c7aa0687250d656fba2984a078558)
 * Help Desk & IT Support (Information & Communication Technology)
 * national commercial real estate company operates in every major Australian capital city through affiliation 
 * Adelaide SA
 * JD
->>
-作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
+>>作为我们团队的关键成员，候选人将负责监控、管理、维护和支持各种 ICT 系统和项目，以确保服务可靠、可用、最新、可恢复且符合标准。您将与托管服务提供商 (Commuserv) 和托管安全服务提供商密切合作。
 知识与经验：
 您在 ICT 系统和网络方面的丰富经验应包括：
 * 具有排除故障和维护客户端系统（包括 Windows 10 & 11、Apple & Android 手机和平板电脑）的经验
@@ -33,8 +29,7 @@
 * Help Desk & IT Support (Information & Communication Technology)
 * Insight Data Solutions brings unparalleled accuracy, speed, and flexibility to real estate valuation, prediction and analytics. 
 * JD
->>
-* 负责通过在线门户、电子邮件和/或来自我们的估值公司和审计师用户群的偶尔来电提交的支持请求的整个生命周期。
+>>负责通过在线门户、电子邮件和/或来自我们的估值公司和审计师用户群的偶尔来电提交的支持请求的整个生命周期。
 * 协助解决软件问题并在适用的情况下为用户提供故障排除指导。
 * 与产品和工程团队合作解决复杂或紧急的问题。
 * 协助记录和更新用户知识库。
@@ -58,8 +53,7 @@
 * Richmond, Melbourne VIC
 * Vic Gov
 * JD
->>
-* 执行服务台功能，包括记录、影响评估和在设定的时间范围内升级。
+>>执行服务台功能，包括记录、影响评估和在设定的时间范围内升级。
 * 确保影响关键操作或健康和安全的事件得到有效管理。
 * 保持对分配任务的所有权，向客户提供最新信息并确保及时解决问题。
 * 保留 IT 设备移动、添加、更改和借出的准确资产记录。
@@ -84,7 +78,7 @@
 * a niche specialist asset management company operating within the facilities management, construction and advisory services areas. 
 * JD
 >>
-* 拥有 IT 正式资格和/或在物业或设施管理领域担任过类似职位的经验
+* >>拥有 IT 正式资格和/或在物业或设施管理领域担任过类似职位的经验
 * 建立和部署计算机化维护管理系统的经验
 * 具备 SQL 和数据库部署方面的高级技能，可用于我们的资产管理数据分析
 * 优秀的沟通者，具有出色的书面和口头表达能力，包括理解力、语法和技术写作
@@ -102,8 +96,7 @@
 * Help Desk & IT Support (Information & Communication Technology)
 * Pan Pacific Hotels Group has over 50 Hotels
 * JD
->>
-我们正在寻找一位全职 IT 协调员，以帮助维护我们的网络数据库、维护 IT 软件和硬件并优化日常 IT 运营支持。他们将协助排除系统错误，同时维护数据安全和酒店计划。请注意，必须具备技术背景和 IT 系统知识。 
+>>我们正在寻找一位全职 IT 协调员，以帮助维护我们的网络数据库、维护 IT 软件和硬件并优化日常 IT 运营支持。他们将协助排除系统错误，同时维护数据安全和酒店计划。请注意，必须具备技术背景和 IT 系统知识。 
 职位：
 向 IT 经理汇报，您将：
 * 协助酒店部门和员工解决软件错误和我们的物业管理系统
@@ -124,8 +117,7 @@
 * Help Desk & IT Support (Information & Communication Technology)
 * a workforce accommodation specialist in Hospitality & Tourism
 * JD
->>
-* 在所有支持的系统上提供一级到二级支持。
+>>在所有支持的系统上提供一级到二级支持。
 * 确保及时响应所有票据——事件和请求。 
 * 管理升级问题并确保及时解决任何问题。 
 * 配置、部署和维护个人电脑、笔记本电脑、打印机、手机和平板电脑等。
@@ -151,8 +143,7 @@
 * Maintenance & Handyperson Services (Trades & Services)
 * world leader in real estate services, buy, build, occupy and invest in a variety of assets including industrial, commercial, retail, residential and hotel real estate. From tech startups to global firms, our clients span industries including banking, energy, healthcare, law, life sciences, manufacturing and technology.
 * JD
->>
-我们目前正在寻找 2 名物业服务协调员加入我们的悉尼办公室！与一支充满活力和乐趣的团队合作，致力于为企业提供专业的建议和支持。 
+>>我们目前正在寻找 2 名物业服务协调员加入我们的悉尼办公室！与一支充满活力和乐趣的团队合作，致力于为企业提供专业的建议和支持。 
 物业服务协调员在客户服务中心 (CSC) 工作，通过数字平台管理多种不同的服务，并与现场团队、承包商和投资组合经理密切联系，以确保提供有效的服务。
 角色快照：
 * 解决业主、租户、物业经理和建筑经理的各种问询 
@@ -163,5 +154,3 @@
 * 关于接纳新客户和房产转型 
 * 接听所有利益相关者的所有来电和电子邮件 
 * 提供优质的客户产品  
-
-

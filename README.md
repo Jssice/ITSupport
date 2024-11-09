@@ -49,6 +49,38 @@ JD
 * 能够快速学习复杂系统。
 * 拥有在 ProTech 或房地产领域工作的经验。
 * 拥有 IT 或软件领域的相关学位或大专学历。
+In a typical day you can expect to:
+
+Take ownership of the full lifecycle of support requests submitted via online portal, emails and/or occasional inbound calls from our user base of Valuation firms and Auditors.
+
+Assist with troubleshooting of software issues and provide guided user troubleshooting where applicable.
+
+Engage with product and engineering teams over complex or urgent issues.
+
+Assist with the documentation and updating of the user knowledge base.
+
+Bug reporting.
+
+Communicate customer feedback and potential product improvements to the development team.
+
+Establish a deep understanding of property valuation software and the government property valuation process.
+
+
+Our Ideal Person:
+
+ESSENTIAL:
+
+Proven experience in IT / Software support roles or online helpdesk.
+
+Experience working with Jira and/or Confluence platforms.
+
+Exceptional customer service skills.
+
+Strong problem-solving and time management skills.
+
+Fantastic written and verbal communication skills.
+
+Ability to learn complex systems quickly.
 ```
 
 

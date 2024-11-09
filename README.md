@@ -107,6 +107,15 @@ Ability to learn complex systems quickly.
 * 能够管理多个优先事项、有效解决问题并保持技术能力
 * 出色的书面沟通能力，能够清晰地传达复杂的想法
 * 积极主动、认真负责、渴望在职位中学习和成长
+Key Accountabilities:
+Perform Service Desk functions, including recording, impact assessment, and escalation within set timeframes.
+Ensure incidents affecting critical operations or health and safety are managed efficiently.
+Maintain ownership of assigned tasks, providing updates to customers and ensuring timely resolution.
+Keep accurate asset records for IT equipment moves, additions, changes, and loans.
+Deliver exceptional customer service and handle administrative tasks, such as procurement and time sheet entry.
+Resolve IT incidents and requests within SLA timeframes while ensuring consistent coverage for Service Desk functions.
+Adhere to ITIL processes and contribute to the knowledge base by creating and updating documentation.
+Adjust work hours to ensure Service Desk coverage from 7:30 AM to 5 PM and manage staff absences.
 ```
 
 
@@ -127,6 +136,18 @@ Ability to learn complex systems quickly.
 * 高度重视细节，注重工作准确性和高质量
 * 具有良好的职业道德和出色的时间管理技能
 * 有能力作为高效团队的一员进行建 设、贡献和协作。
+Ideally you will have:
+Formal qualifications in IT and/ or experience in a similar role within the property or facilities management sectors
+Previous experience building and deploying computerised maintenance management systems
+Advanced skills in SQL and database deployment for our asset management data analysis
+An excellent communicator with outstanding written and verbal skills including comprehension, grammar and technical writing
+Exceptional planning skills and exposure to large document construction
+All round IT support experience in mobilising and supporting large facilities management contracts
+High-level computer literacy and desktop publishing skills
+Excellent attention to detail with focus on work accuracy and high quality
+Possess a strong work ethic and excellent time management skills
+Ability to build, contribute and collaborate as part of a high-performing team.
+
 ```
 
 
@@ -150,6 +171,12 @@ Ability to learn complex systems quickly.
 * 具有 Sound Knowledge 365、Outlook、Windows 操作系统、网络和
 * 出色的沟通技巧，能够建立和维持专业关系
 * 热衷于提供卓越的优质服务
+Ideally You Will Have:
+Previous experience in Hotel environment, with knowledge of computer science or equivalent
+Experience with Office 365, using/supporting Windows O/S, Outlook, Micros & Opera & managing various networks WLAN, LAN, guest public Wi-Fi
+Experience on Sound Knowledge 365, Outlook, Windows OS, network and
+Excellent communication skills and be able to build and maintain professional relationships
+A passion for delivering exceptional levels of quality service
 ```
 
 
@@ -199,6 +226,14 @@ Ability to learn complex systems quickly.
 * 与所有利益相关者建立客户关系 
 * 关于接纳新客户和房产转型 
 * 接听所有利益相关者的所有来电和电子邮件 
-* 提供优质的客户产品  
+* 提供优质的客户产品
+Resolving a variety of enquiries for owners, tenants, property managers and building managers 
+Administering our Operational platform by assigning site works requests to contractors
+Setting up and verifying bank details for all creditors
+Administering social media platforms for a segment of retail shopping centres
+Building customer relations with all stakeholders 
+On boarding new clients and property transitions 
+Answering all incoming calls and emails from all stakeholders 
+Delivering a superior customer product  
 ```
 
